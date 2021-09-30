@@ -1,0 +1,298 @@
+html, body{
+    background-image: url(https://www.drinkheartwater.com/wp-content/uploads/2020/09/AdobeStock_189753909.jpeg)   ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+     
+     
+      padding: 0;
+        margin: 0;
+        outline: none;
+        font-family: Roboto, Arial, sans-serif;
+        font-size: 14px;
+  }
+  
+  
+  
+  #wiki-banner {
+  
+    padding: 20px 50px;
+    background-color: rgba(255, 255, 255, .5);
+    overflow: hidden;
+    color: black;
+     margin: 1%;
+     border-style: ridge;
+     position: relative;
+     box-shadow: lightcyan;
+     top:1px;
+     height: 60px;
+     width: 1390px;
+     border-radius: 10px;
+  
+    
+    
+  
+  }
+  
+  #logo1{
+  
+    text-align: left;
+  }
+  
+  .list{
+  
+    float: right;
+      position: relative;
+      margin-right: 30px;
+      
+  }
+  ul#list2 li {
+  
+    display: inline;
+    
+   
+  }
+  
+  
+  
+  #size {
+      font-size: 20px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  
+   #wiki-banner ul{
+           
+            columns: 3;
+            bottom: 80px;
+            
+          
+            
+   }
+  
+   #wiki-banner li{
+  
+    text-indent: 10px;
+      margin: 0px;
+      padding: 0px;
+      
+      height: 25px;
+      vertical-align: middle;
+  
+    
+   }
+  
+   a{
+     text-decoration: none;
+     color: blue;
+   }
+  
+   a:hover {
+     text-decoration: underline;
+   }
+  
+   #article1{
+  
+    background-color: rgba(255, 255, 255, 0.5);
+   margin: 2%;
+    size: 50px;
+    border-style: ridge;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2); 
+    border-radius: 5px;
+    z-index: 1;
+    background: inherit;
+     position: relative;
+     left:40px;
+     top:1px;
+     height: 810spx;
+     width: 700px;
+     font-size: 16px;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     overflow: hidden;
+    
+   }
+   #article2{
+    background-color: rgba(255, 255, 255, .5);
+   margin: 2%;
+    size: 50px;
+    border-style: ridge;
+   
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2); 
+    border-radius: 5px;
+    position: relative;
+    
+    overflow: hidden;
+     left:770px;
+     top:-927px;
+     bottom: 20px;
+     height: 890px;
+     width: 660px;
+     font-size: 16px;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     
+   }
+   #article3{
+    background-color: rgba(255, 255, 255, 0.5);
+   margin: -61%;
+    size: 50px;
+    border-style: ridge;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2); 
+    border-radius: 5px;
+    
+     position: relative;
+     left:1000px;
+     top:1px;
+     height: 810spx;
+     width: 1386px;
+     font-size: 16px;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     overflow: hidden;
+   }
+  
+   #article4{
+    background-color: rgba(255, 255, 255, 0.5);
+   margin: -61%;
+    size: 50px;
+    border-style: ridge;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2); 
+    border-radius: 5px;
+    
+     position: relative;
+     left:1000px;
+     top:950px;
+     height: 810spx;
+     width: 800px;
+     font-size: 16px;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     overflow: hidden;
+   }
+  
+   #article5{
+    background-color: rgba(255, 255, 255, 0.5);
+   margin: -61%;
+    size: 50px;
+    border-style: ridge;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2); 
+    border-radius: 5px;
+    
+     position: relative;
+     left:1810px;
+     top:1330px;
+     height: 542px;
+     width: 570px;
+     font-size: 16px;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     overflow: hidden;
+   }
+  
+   
+  
+   #h1{
+     margin: 1%;
+     padding: 10px;
+    border-style: ridge;
+     position: relative;
+     background-color: #CEF2E0;
+     font-size: 20px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+   }
+  
+   .floatleft{
+     float: left;
+     margin: 2%;
+   }
+  
+   .floatright{
+     float: right;
+     margin: 1%;
+   }
+  
+   #header{
+  
+    text-align: center;
+    background-color: rgba(255, 255, 255, .5);
+    padding: 1%;
+    overflow: hidden;
+    height: 55px;
+   }
+     section{
+   background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+     }
+  
+     ul#list2 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(255, 255, 255, .5) ;
+  }
+  
+  ul#list2 li {
+    float: left;
+  }
+  
+  ul#list2 li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  ul#list2  li a:hover {
+    background-color: rgba(255, 255, 255, .5);;
+  }
+  
+  #allign{
+    float: right;
+  }
+  
+  
+  
+  p{
+    margin: 2%;
+  }
+  
+  footer{
+  
+    text-align: center;
+    background-color: #131729;
+    padding: 1%;
+    overflow: hidden;
+    
+    
+   margin: -61%;
+    size: 50px;
+    
+  
+    box-sizing: border-box;
+   position: relative;
+     left:900px;
+     top:2260px;
+     height: 200px;
+     width: 1545px;
+     font-size: 16px;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     box-sizing: border-box;
+  }
+  
+  #logo {
+    width: 100%;
+    text-align: center;
+    margin-top: 70px;
+    padding-left: 10px;
+  }
+  
+  ul#logo li{
+    display:inline;
+    cursor: pointer;
+    margin: 25px 15px;
+  }
+  
+  #logo img{
+    width: 40px;
+    height: 40px;
+  }
+  
